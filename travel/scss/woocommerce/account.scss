@@ -1,0 +1,35 @@
+.woocommerce, .woocommerce-page {
+	.login, .register, .edit-account {
+		.input-text {
+			padding: 8px 10px;
+			border:  1px solid $border_color;
+		}
+		input[type="submit"] {
+			padding:        9px 25px;
+			text-align:     center;
+			background:     #2a2a2a;
+			color:          #fff;
+			border:         none;
+			text-transform: uppercase;
+		}
+	}
+	.edit-account input[type="submit"] {
+		margin-top: 25px;
+	}
+	.woocommerce-info {
+		.button {
+			padding:        9px 25px;
+			text-align:     center;
+			background:     #2a2a2a;
+			color:          #fff;
+			border:         none;
+			text-transform: uppercase;
+		}
+	}
+	.login {
+		min-height: 332px;
+		input[type="submit"] {
+			float: right;
+		}
+	}
+}

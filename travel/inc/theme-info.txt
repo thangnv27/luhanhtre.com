@@ -1,0 +1,22 @@
+/*
+Theme Name: TravelWP
+Theme URI: http://travelwp.physcode.com/
+Author: Physcode
+Author URI: http://physcode.com/
+Description: Description
+Version: 1.3.3
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: travelwp
+Tags: two-columns, left-sidebar, right-sidebar, editor-style, rtl-language-support, sticky-post, theme-options, translation-ready, translation-ready
+
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+
+travelWP is based on physcode http://physcode.com/, (C) 2012-2015 Automattic, Inc.
+physcode is distributed under the terms of the GNU GPL v2 or later.
+
+Normalizing styles have been helped along thanks to the fine work of
+Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
+*/
